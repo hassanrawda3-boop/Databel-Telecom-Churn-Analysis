@@ -24,8 +24,8 @@ The project follows a rigorous data lifecycle:
 
 ## 📁 Repository Structure
 - `Data/`: Contains raw ("BEFORE") and processed ("WORKING") datasets.
-- `Scripts/`: Analysis notes and pivot table configurations.
-- `visuals/`: Contains the dashboard screenshots and charts.
+- `Analysis/`: Analysis notes and pivot table configurations.
+- `Insights/`: Contains the dashboard screenshots and charts.
 - `README.md`: Project documentation.
 
 ## 🛠️ Tech Stack
